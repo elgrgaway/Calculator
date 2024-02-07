@@ -12,7 +12,7 @@ This is a simple calculator application built with HTML, CSS, and JavaScript. Th
 
 ## Keyboard Shortcuts
 
-- Addition: `+``
+- Addition: `+`
 - Subtraction: `-`
 - Multiplication: `*`
 - Division: `/`
