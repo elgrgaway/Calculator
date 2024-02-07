@@ -16,8 +16,8 @@ This is a simple calculator application built with HTML, CSS, and JavaScript. Th
 - Subtraction: `-`
 - Multiplication: `*`
 - Division: `/`
-- Enter key: Equal to (=)
-- Backspace key: Clear the last character
+- `Enter` key: Equal to (=)
+- `Backspace` key: Clear the last character
 - `c` key: Clear the entire input
 
 ## Demo
